@@ -1,0 +1,8 @@
+#_DIR
+node_modules/
+
+#FILES
+package-lock.json
+
+#TYPES
+*.idea
